@@ -13,11 +13,11 @@ https://46-166-142-27.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="Russia Sports",Футбол 2
 https://46-166-142-27.livesports24.online/fooootball2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU" group-title="Kênh Trực Tiếp", TTTV
+#EXTINF:-1 group-title="TTTV&BĐTV" tvg-logo="",  Thể thao TV
 http://hthanhshare.duckdns.org:21585/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="Kênh Trực Tiếp" tvg-logo="", BĐTV
+#EXTINF:-1 group-title="TTTV&BĐTV" tvg-logo="", Bóng đá TV
 http://hthanhshare.duckdns.org:21585/vtvcab16/index.m3u8
-#EXTINF:-1 group-title="Kênh Trực Tiếp" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 
+#EXTINF:-1 group-title="TTTV&BĐTV" tvg-logo="https://drive.google.com/file/d/19VhHKk1LSsl5cfGYgUHdWvt8WixEuqM7/view?usp=sharing", ASTRO SPORTS 
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8|User-Agent=Chrome%2F59.0.3071.115+Safari%2F537.36
-#EXTINF:-1 group-title="Kênh Trực Tiếp" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png", ASTRO SPORTS 3
+#EXTINF:-1 group-title="TTTV&BĐTV" tvg-logo="https://drive.google.com/file/d/19VhHKk1LSsl5cfGYgUHdWvt8WixEuqM7/view?usp=sharing", ASTRO SPORTS 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8|User-Agent=Chrome%2F59.0.3071.115+Safari%2F537.36
