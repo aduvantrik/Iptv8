@@ -1,17 +1,36 @@
-#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
+Vtv udp
 
-#EXTM3U BEARTV - Luôn cập nhật kênh ổn định
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png",VTV2 HD
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png",VTV3 HD
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png",VTV6 HD
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png" ,Thái Bình
-http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTM3U
+#-------------------VTV-------------------#
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.249:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.13:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.247:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.20:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.1.131:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.245:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.96:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.2.166:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.1.128:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.1.239:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.1.240:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 8Mbps)
+http://183.81.24.162:12145/udp/225.1.1.241:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD (HD 4Mbps)
+http://183.81.24.162:12145/udp/225.1.4.2:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD (HD 4Mbps)
+http://183.81.24.162:12145/udp/225.1.4.3:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 4Mbps)
+http://183.81.24.162:12145/udp/225.1.4.4:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 4Mbps)
+http://183.81.24.162:12145/udp/225.1.4.6:30120
